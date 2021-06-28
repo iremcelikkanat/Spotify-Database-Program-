@@ -31,9 +31,11 @@ Projeyi Java Programlama dilinde JDK 8 ile Windows işletim sistemi üzerinde ge
 
 III.	PROGRAMIN GENEL YAPISI VE TASARIMI 
 Program temel olarak çeşitli form pencerelerinden oluşuyor admin ve kullanıcı bu ekranlar üzerinden seçtiği çeşitli işlemleri gerçekleştiriyor. Bu işlemler arasında giriş yapma, üye olma, müzik listesi aratma, listeye müzik ekleme,ülkelere göre sıralama top10 listeleme ,kullanıcı takip etme vs. gibi özellikler bulunuyor.
+
  ![1](https://user-images.githubusercontent.com/56557278/123640029-6e41d900-d829-11eb-8571-98853f351ef7.jpg)
 
           Şekil 1 Kullanıcı,Admin  Giris ve Uye ol
+          
  ![2](https://user-images.githubusercontent.com/56557278/123640072-7a2d9b00-d829-11eb-9fed-5ab0f9d6cec1.jpg)
                            Şekil 2 Admin sayfası
  ![3](https://user-images.githubusercontent.com/56557278/123640107-8154a900-d829-11eb-9c76-c4de3cefe7ec.jpg)
