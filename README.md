@@ -57,7 +57,8 @@ Projeyi hazırlarken veritaban tablolarının oluşturulması ve uygulanması ko
 https://www.youtube.com/channel/UC-EYPnTYleFrIPT9bpMCbQQ
 https://www.youtube.com/watch?v=xJsbDa1tG5s
 https://www.udemy.com/course/sifirdan-ileri-seviyeye-komple-java-gelistirici-kursu/learn/lecture/8523070#overview
-KABA KOD
+
+## KABA KOD
 •	BASLA
 •	textfielda girilen ad,sifre,mail,odeme bilgilerini değişkene ata.
 •	kullanici tablosundan textfielde değişkenlerini kullanici_adi,email,sifre,ulkeID,odendi bilgilerine insert et.
