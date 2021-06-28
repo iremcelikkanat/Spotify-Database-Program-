@@ -1,9 +1,6 @@
 Programlama Laboratuvarı 
 Spotify Veritabanı Yönetim Sistemi
 
- 
-Eliz Kurtuluş
-Kocaeli Üniversitesi Mühendislik Fakültesi Bilgisayar Mühendisliği 190202015@kocaeli.edu.tr
 
 Özet—Bu çalışmada arayüz bileşenleriyle birlikte bir veritabanı yönetim sistemi oluşturularak, Spotify klonu gerçekleştirilmiştir. Bu uygulamayı geliştirirken Java programlama dili, Swing arayüzü ve Mysql  veritabanı kullanılmıştır. 
 Anahtar kelimeler— Veritabanı, VeriTabanı,Nesne, Birebir , Arayüz, Spotify, Uygulaması 
@@ -34,13 +31,14 @@ Projeyi Java Programlama dilinde JDK 8 ile Windows işletim sistemi üzerinde ge
 
 III.	PROGRAMIN GENEL YAPISI VE TASARIMI 
 Program temel olarak çeşitli form pencerelerinden oluşuyor admin ve kullanıcı bu ekranlar üzerinden seçtiği çeşitli işlemleri gerçekleştiriyor. Bu işlemler arasında giriş yapma, üye olma, müzik listesi aratma, listeye müzik ekleme,ülkelere göre sıralama top10 listeleme ,kullanıcı takip etme vs. gibi özellikler bulunuyor.
- 
+ ![1](https://user-images.githubusercontent.com/56557278/123640029-6e41d900-d829-11eb-8571-98853f351ef7.jpg)
+
           Şekil 1 Kullanıcı,Admin  Giris ve Uye ol
- 
+ ![2](https://user-images.githubusercontent.com/56557278/123640072-7a2d9b00-d829-11eb-9fed-5ab0f9d6cec1.jpg)
                            Şekil 2 Admin sayfası
- 
+ ![3](https://user-images.githubusercontent.com/56557278/123640107-8154a900-d829-11eb-9c76-c4de3cefe7ec.jpg)
                        Şekil 3 Kullanıcı Ana Sayfa
- 
+ ![4](https://user-images.githubusercontent.com/56557278/123640138-8a457a80-d829-11eb-8361-60e03dfddd4a.jpg)
                         Şekil 4 Aranan kullanıcı profili
 
 IV.	PROGRAMIN ÇALIŞTIRILMASI VE KULLANILMASI 
@@ -126,7 +124,7 @@ KABA KOD
 
                             ER DİYAGRAMI
 
-
+![uml](https://user-images.githubusercontent.com/56557278/123640293-b06b1a80-d829-11eb-882d-1fe1d0c97839.jpg)
 
 
  
