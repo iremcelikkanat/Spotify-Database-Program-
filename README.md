@@ -1,1 +1,0 @@
-# Spotify-Veri-Taban-Program-
